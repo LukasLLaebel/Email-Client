@@ -18,7 +18,7 @@
     - Project group: com.lukas
     - Project artifact: email
     - Package name: com.lukas.email
-    - Dependencies: - Spring Security - Thymeleaf - Java Mail Sender - PostgreSQL Driver
+    - Dependencies: - Spring Security - Thymeleaf - Java Mail Sender - PostgreSQL Driver - Spring Boot Web
       Then run:
 
   ```bash
@@ -71,8 +71,8 @@ Create a secure email system for sending and receiving emails. Learn email proto
 
 ### 1. Project setup
 
-- [ ] Configure Spring Boot application
-- [ ] Configure PostgreSQL database connection
+- [x] Configure Spring Boot application
+- [x] Configure PostgreSQL database connection
 - [ ] Configure Hibernate / Spring Data JPA
 - [ ] Configure Thymeleaf templates and layouts
 - [ ] Configure Spring Security
